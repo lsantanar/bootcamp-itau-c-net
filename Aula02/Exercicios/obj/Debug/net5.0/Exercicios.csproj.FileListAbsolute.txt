@@ -1,0 +1,16 @@
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula02\Exercicios\obj\Debug\net5.0\Exercicios.csproj.AssemblyReference.cache
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula02\Exercicios\obj\Debug\net5.0\Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula02\Exercicios\obj\Debug\net5.0\Exercicios.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula02\Exercicios\obj\Debug\net5.0\Exercicios.AssemblyInfo.cs
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula02\Exercicios\obj\Debug\net5.0\Exercicios.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula02\Exercicios\bin\Debug\net5.0\Exercicios.exe
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula02\Exercicios\bin\Debug\net5.0\Exercicios.deps.json
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula02\Exercicios\bin\Debug\net5.0\Exercicios.runtimeconfig.json
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula02\Exercicios\bin\Debug\net5.0\Exercicios.runtimeconfig.dev.json
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula02\Exercicios\bin\Debug\net5.0\Exercicios.dll
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula02\Exercicios\bin\Debug\net5.0\ref\Exercicios.dll
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula02\Exercicios\bin\Debug\net5.0\Exercicios.pdb
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula02\Exercicios\obj\Debug\net5.0\Exercicios.dll
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula02\Exercicios\obj\Debug\net5.0\ref\Exercicios.dll
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula02\Exercicios\obj\Debug\net5.0\Exercicios.pdb
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula02\Exercicios\obj\Debug\net5.0\Exercicios.genruntimeconfig.cache

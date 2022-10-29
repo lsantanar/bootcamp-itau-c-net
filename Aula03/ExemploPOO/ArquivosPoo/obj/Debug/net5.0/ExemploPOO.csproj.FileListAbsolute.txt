@@ -1,0 +1,16 @@
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\obj\Debug\net5.0\ExemploPOO.csproj.AssemblyReference.cache
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\obj\Debug\net5.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\obj\Debug\net5.0\ExemploPOO.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\obj\Debug\net5.0\ExemploPOO.AssemblyInfo.cs
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\obj\Debug\net5.0\ExemploPOO.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\bin\Debug\net5.0\ExemploPOO.exe
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\bin\Debug\net5.0\ExemploPOO.deps.json
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\bin\Debug\net5.0\ExemploPOO.runtimeconfig.json
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\bin\Debug\net5.0\ExemploPOO.runtimeconfig.dev.json
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\bin\Debug\net5.0\ExemploPOO.dll
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\bin\Debug\net5.0\ref\ExemploPOO.dll
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\bin\Debug\net5.0\ExemploPOO.pdb
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\obj\Debug\net5.0\ExemploPOO.dll
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\obj\Debug\net5.0\ref\ExemploPOO.dll
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\obj\Debug\net5.0\ExemploPOO.pdb
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\obj\Debug\net5.0\ExemploPOO.genruntimeconfig.cache

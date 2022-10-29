@@ -1,0 +1,5 @@
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\ExemploConversorMoeda\obj\Debug\net5.0\ExemploConversorMoeda.csproj.AssemblyReference.cache
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\ExemploConversorMoeda\obj\Debug\net5.0\ExemploConversorMoeda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\ExemploConversorMoeda\obj\Debug\net5.0\ExemploConversorMoeda.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\ExemploConversorMoeda\obj\Debug\net5.0\ExemploConversorMoeda.AssemblyInfo.cs
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\ExemploConversorMoeda\obj\Debug\net5.0\ExemploConversorMoeda.csproj.CoreCompileInputs.cache

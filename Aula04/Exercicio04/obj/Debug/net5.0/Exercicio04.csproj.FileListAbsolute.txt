@@ -1,0 +1,5 @@
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula05\Exercicio04\obj\Debug\net5.0\Exercicio04.csproj.AssemblyReference.cache
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula05\Exercicio04\obj\Debug\net5.0\Exercicio04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula05\Exercicio04\obj\Debug\net5.0\Exercicio04.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula05\Exercicio04\obj\Debug\net5.0\Exercicio04.AssemblyInfo.cs
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula05\Exercicio04\obj\Debug\net5.0\Exercicio04.csproj.CoreCompileInputs.cache

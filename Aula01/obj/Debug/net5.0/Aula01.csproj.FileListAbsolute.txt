@@ -1,0 +1,16 @@
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula01\bin\Debug\net5.0\Aula01.exe
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula01\bin\Debug\net5.0\Aula01.deps.json
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula01\bin\Debug\net5.0\Aula01.runtimeconfig.json
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula01\bin\Debug\net5.0\Aula01.runtimeconfig.dev.json
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula01\bin\Debug\net5.0\Aula01.dll
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula01\bin\Debug\net5.0\ref\Aula01.dll
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula01\bin\Debug\net5.0\Aula01.pdb
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula01\obj\Debug\net5.0\Aula01.csproj.AssemblyReference.cache
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula01\obj\Debug\net5.0\Aula01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula01\obj\Debug\net5.0\Aula01.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula01\obj\Debug\net5.0\Aula01.AssemblyInfo.cs
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula01\obj\Debug\net5.0\Aula01.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula01\obj\Debug\net5.0\Aula01.dll
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula01\obj\Debug\net5.0\ref\Aula01.dll
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula01\obj\Debug\net5.0\Aula01.pdb
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula01\obj\Debug\net5.0\Aula01.genruntimeconfig.cache

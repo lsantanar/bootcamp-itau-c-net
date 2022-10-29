@@ -1,0 +1,16 @@
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula05\ExemploHeranca\obj\Debug\net5.0\ExemploHeranca.csproj.AssemblyReference.cache
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula05\ExemploHeranca\obj\Debug\net5.0\ExemploHeranca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula05\ExemploHeranca\obj\Debug\net5.0\ExemploHeranca.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula05\ExemploHeranca\obj\Debug\net5.0\ExemploHeranca.AssemblyInfo.cs
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula05\ExemploHeranca\obj\Debug\net5.0\ExemploHeranca.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula05\ExemploHeranca\bin\Debug\net5.0\ExemploHeranca.exe
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula05\ExemploHeranca\bin\Debug\net5.0\ExemploHeranca.deps.json
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula05\ExemploHeranca\bin\Debug\net5.0\ExemploHeranca.runtimeconfig.json
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula05\ExemploHeranca\bin\Debug\net5.0\ExemploHeranca.runtimeconfig.dev.json
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula05\ExemploHeranca\bin\Debug\net5.0\ExemploHeranca.dll
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula05\ExemploHeranca\bin\Debug\net5.0\ref\ExemploHeranca.dll
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula05\ExemploHeranca\bin\Debug\net5.0\ExemploHeranca.pdb
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula05\ExemploHeranca\obj\Debug\net5.0\ExemploHeranca.dll
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula05\ExemploHeranca\obj\Debug\net5.0\ref\ExemploHeranca.dll
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula05\ExemploHeranca\obj\Debug\net5.0\ExemploHeranca.pdb
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula05\ExemploHeranca\obj\Debug\net5.0\ExemploHeranca.genruntimeconfig.cache

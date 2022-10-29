@@ -1,0 +1,16 @@
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.csproj.AssemblyReference.cache
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.AssemblyInfo.cs
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.exe
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.deps.json
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.runtimeconfig.json
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.runtimeconfig.dev.json
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.dll
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\ExemploConstrutores\bin\Debug\net5.0\ref\ExemploConstrutores.dll
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.pdb
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.dll
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\ExemploConstrutores\obj\Debug\net5.0\ref\ExemploConstrutores.dll
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.pdb
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\Aula04\ExemploPOO\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.genruntimeconfig.cache

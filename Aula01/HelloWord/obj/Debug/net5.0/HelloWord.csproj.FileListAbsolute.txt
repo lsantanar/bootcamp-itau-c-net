@@ -1,0 +1,16 @@
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\HelloWord\bin\Debug\net5.0\HelloWord.exe
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\HelloWord\bin\Debug\net5.0\HelloWord.deps.json
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\HelloWord\bin\Debug\net5.0\HelloWord.runtimeconfig.json
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\HelloWord\bin\Debug\net5.0\HelloWord.runtimeconfig.dev.json
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\HelloWord\bin\Debug\net5.0\HelloWord.dll
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\HelloWord\bin\Debug\net5.0\ref\HelloWord.dll
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\HelloWord\bin\Debug\net5.0\HelloWord.pdb
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\HelloWord\obj\Debug\net5.0\HelloWord.csproj.AssemblyReference.cache
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\HelloWord\obj\Debug\net5.0\HelloWord.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\HelloWord\obj\Debug\net5.0\HelloWord.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\HelloWord\obj\Debug\net5.0\HelloWord.AssemblyInfo.cs
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\HelloWord\obj\Debug\net5.0\HelloWord.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\HelloWord\obj\Debug\net5.0\HelloWord.dll
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\HelloWord\obj\Debug\net5.0\ref\HelloWord.dll
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\HelloWord\obj\Debug\net5.0\HelloWord.pdb
+D:\Desenvolvimento\Especialização Itaú - Java\Rodrigo - C# e .NET\HelloWord\obj\Debug\net5.0\HelloWord.genruntimeconfig.cache
